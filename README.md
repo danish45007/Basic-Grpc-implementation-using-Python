@@ -10,8 +10,9 @@ pip install requirements.txt
 python3 server.py
 ```
 # Start Client/Send Request
+```
 python3 client.py
-
+```
 ### Output
 
 ![alt text](grpc.png
